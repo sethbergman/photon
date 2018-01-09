@@ -19,8 +19,9 @@ git clone https://github.com/sethbergman/photon.git && cd photon
 
 ### Install dependencies
 
-```
-npm i
+```sh
+npm i # or use yarn
+yarn
 ```
 
 ### Start the app
@@ -33,7 +34,7 @@ npm start
 
 ### Demo:
 
-[photon.npmstack.com](photon.npmstack.com)
+[photon.npmstack.com](http://photon.npmstack.com)
 
 
 [![GitHub forks](https://img.shields.io/github/forks/sethbergman/photon.svg?style=social&label=Fork)](https://github.com/sethbergman/photon) [![GitHub stars](https://img.shields.io/github/stars/sethbergman/photon.svg?style=social&label=Star)](https://github.com/sethbergman/photon) [![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/photon.svg?style=social&label=Watch)](https://github.com/sethbergman/photon) [![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman/photon) [![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social)](https://twitter.com/seth_bergman)
