@@ -1,5 +1,7 @@
 # photon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/photon.svg)](https://greenkeeper.io/)
+
 html5 theme with a node / express server
 
 --------------------------------------------------------------------------------
