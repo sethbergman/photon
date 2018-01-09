@@ -1,12 +1,10 @@
-# photon
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/photon.svg)](https://greenkeeper.io/)
+# Photon
 
 html5 theme with a node / express server
 
 --------------------------------------------------------------------------------
-
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/sethbergman/photon.svg?branch=master)](https://travis-ci.org/sethbergman/photon)
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/photon.svg)](https://greenkeeper.io/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.org/sethbergman/photon.svg?branch=master)](https://travis-ci.org/sethbergman/photon)
 
 
 ## Demo:
