@@ -1,0 +1,44 @@
+{
+  "name": "photon",
+  "version": "1.0.0",
+  "description": "A responsive HTML5 template.",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node server"
+  },
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethbergman/photon.git"
+  },
+  "keywords": [
+    "html5",
+    "express"
+  ],
+  "author": "Seth Bergman <seth.atxwebs@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sethbergman/photon/issues"
+  },
+  "homepage": "https://github.com/sethbergman/photon#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consolidate": "^0.15.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "html": "^1.0.0",
+    "jquery": "^3.2.1",
+    "path": "^0.12.7"
+  },
+  "private": true,
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "supertest": "^3.0.0",
+    "supervisor": "^0.12.0"
+  }
+}
