@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "sh test/index.test.sh",
-    "start": "node server"
+    "start": "node server",
+    "watch": "sass --watch assets/sass/:assets/css/"
   },
   "engines": {
     "node": "8.9.4",
