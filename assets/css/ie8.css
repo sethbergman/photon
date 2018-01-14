@@ -69,7 +69,14 @@ button,
     border-bottom-color: #ffffff; }
     .main.style2 a:hover {
       color: #ffffff; }
-  .main.style2 h1, .main.style2 h2, .main.style2 h3, .main.style2 h4, .main.style2 h5, .main.style2 h6, .main.style2 strong, .main.style2 b {
+  .main.style2 b,
+  .main.style2 h1,
+  .main.style2 h2,
+  .main.style2 h3,
+  .main.style2 h4,
+  .main.style2 h5,
+  .main.style2 h6,
+  .main.style2 strong {
     color: #ffffff; }
   .main.style2 header p {
     color: #ffffff; }
@@ -139,7 +146,14 @@ button,
     border-bottom-color: #ffffff; }
     #header a:hover {
       color: #ffffff; }
-  #header h1, #header h2, #header h3, #header h4, #header h5, #header h6, #header strong, #header b {
+  #header b,
+  #header h1,
+  #header h2,
+  #header h3,
+  #header h4,
+  #header h5,
+  #header h6,
+  #header strong {
     color: #ffffff; }
   #header header p {
     color: #ffffff; }
@@ -198,7 +212,14 @@ button,
     border-bottom-color: #ffffff; }
     #footer a:hover {
       color: #ffffff; }
-  #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
+  #footer b,
+  #footer h1,
+  #footer h2,
+  #footer h3,
+  #footer h4,
+  #footer h5,
+  #footer h6,
+  #footer strong {
     color: #ffffff; }
   #footer header p {
     color: #ffffff; }
