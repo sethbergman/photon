@@ -2040,7 +2040,7 @@ button,
     background-color: #333;
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed,							fixed;
-    background-image: url("images/overlay1.png"), url("../../images/header.jpg");
+    background-image: url("images/overlay1.png"), url("images/header.jpg");
     background-size: auto,							cover; }
     .main.style2 a {
       border-bottom-color: rgba(255, 255, 255, 0.5); }
@@ -2513,5 +2513,21 @@ body.is-loading #header:after {
   /* Footer */
   #footer {
     padding: 2em 1em 2em 1em ; } }
+/* Custom scss added by Seth */
+/* button.scroll-to-top {
+  border-radius: 50%;
+  font-size: 1.5rem;
+  line-height: 1;
+  box-sizing: border-box;
+  width: 2.75rem;
+  height: 2.75rem;
+  position: fixed;
+  bottom: 1rem;
+  right: 2rem;
+  background: var(--b-col);
+  box-shadow: 0 0.25rem 0.25rem 0 rgba(0, 0, 0, 0.125), 0 0.125rem 0.125rem -0.125rem rgba(0, 0, 0, 0.25); }
+
+button.scroll-to-top:hover, button.scroll-to-top:focus {
+  background: var(--b-col2); } */
 
 /*# sourceMappingURL=main.css.map */
