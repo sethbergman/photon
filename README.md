@@ -3,6 +3,7 @@
 html5 theme with a node / express server
 
 --------------------------------------------------------------------------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e77380310fe40b6a23f2a1432c6a1e1)](https://app.codacy.com/app/sethbergman/photon?utm_source=github.com&utm_medium=referral&utm_content=sethbergman/photon&utm_campaign=badger)
 [![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/photon.svg)](https://greenkeeper.io/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Build Status](https://travis-ci.org/sethbergman/photon.svg?branch=master)](https://travis-ci.org/sethbergman/photon)
 
