@@ -9,8 +9,8 @@
     "watch": "sass --watch assets/sass/:assets/css/"
   },
   "engines": {
-    "node": "8.9.4",
-    "npm": "5.6.0"
+    "node": ">=8.11.1",
+    "npm": ">=5.7.1"
   },
   "repository": {
     "type": "git",
